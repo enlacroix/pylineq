@@ -1,2 +1,3 @@
-# linear_equations_system
-Solving systems of linear equations in the case of infinitely many solutions &amp; generating TeX code.
+## Системы линейных уравнений (СЛУ) 
+В данном модуле предалагается подход к решению СЛУ в случае бесконечного количества решений (недоопределённый случай). 
+
